@@ -10,7 +10,7 @@ This code uses Orthogonal Collocation Direct Transcription(OCDT) to find the
 numerical solution of the optimal control problem. It transforms solving the optimal
 control problem into solving the Nonlinear Programing NLP problem.
 
-Authon:Han Shuo
+Author:Han Shuo
 Data:2022.3.26
 
 '''
